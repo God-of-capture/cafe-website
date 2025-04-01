@@ -14,7 +14,7 @@ A modern, responsive café website built with Next.js, TypeScript, and Tailwind 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cafe-website.git
+git clone https://github.com/God-of-capture/cafe-website.git
 cd cafe-website
 ```
 
@@ -50,4 +50,4 @@ npm run dev
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests! 
+Feel free to submit issues and enhancement requests!
