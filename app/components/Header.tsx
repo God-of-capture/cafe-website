@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Coffee, UtensilsCrossed, Cookie, Info, PhoneCall } from 'lucide-react'
+import { Coffee, UtensilsCrossed, Cookie, Info, PhoneCall, FileText } from 'lucide-react'
 import CartIcon from './CartIcon'
 
 const Header = () => {
@@ -25,6 +25,12 @@ const Header = () => {
               <Link href="/contact" className="flex items-center hover:text-green-200">
                 <PhoneCall className="mr-2" size={20} />
                 Contact
+              </Link>
+            </li>
+            <li>
+              <Link href="/license" className="flex items-center hover:text-green-200">
+                <FileText className="mr-2" size={20} />
+                License
               </Link>
             </li>
             <li>
